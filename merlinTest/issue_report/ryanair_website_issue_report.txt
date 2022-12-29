@@ -1,0 +1,69 @@
+
+BUG WRITTEN IN ENGLISH AND SPANISH:
+BUG ESCRITO EN INGLÉS Y ESPAÒOL:
+
+
+INGLÉS
+
+TITLE:
+[Ryanair][Firefox] 'Ver el historia de la reserva' link does not open the correspondent page and ends up with error 'Page Not Found'
+
+STEPS TO REPRODUCED:
+1. Go to main Ryanair page - https://www.ryanair.com/es/es
+2. Open the menu 'Planear' on top of the page
+3. Select the option 'Try Somewhere New'
+4. Scroll all the way down the page
+(https://www.ryanair.com/try-somewhere-new/es/es/guias-de-viaje/)
+5. Click the 'Ver el historia de la reserva' found under 'Info útil' header
+
+ACTUAL BEHAVIOUR:
+New page starts loading but after a while 'Page Not Found' message appears on the screen.
+The issue was observed in case of Firefox and Edge browsers.
+See the attached screenshots, video and sysdiagnose.
+
+EXPECTED BEHAVIOUR:
+New page should open with correct content.
+
+NOTES:
+Browsers: Firefox <version number>, Edge <version number>
+Tested on device: <device type>
+OS: Windows 8.1
+Server: <server details>
+Severity: Severe issue
+Reproduced: Always
+
+See the attached screenshots, video and sysdiagnose.
+
+
+ESPAÒOL
+
+TÍTULO:
+[Ryanair][Firefox]Enlace 'Ver el historia de la reserva' no se abre y resulta en un error 'Página no encontrada'
+
+STEPS TO REPRODUCED:
+6. Abre la pagina principal de Ryanair - https://www.ryanair.com/es/es
+7. Abre el menu 'Planear' en la parte arriba
+8. Click la opción 'Try Somewhere New'
+9. Baja toda la pagina que se abre
+(https://www.ryanair.com/try-somewhere-new/es/es/guias-de-viaje/)
+10. Click el enlace 'Ver el historia de la reserva' que se encuentra en la parte titulada 'Info útil'
+
+
+COMPORTAMIENTO ACTUAL:
+La página empieza a cargarse pero no se abre y despues de un rato termina con el error 'Not Found'.
+Este comportamiento aparece en los browsers Firefox y Edge.
+Consulta los screenshots, video and sysdiagnose adjuntos.
+
+COMPORTAMIENTO ESPERADO:
+La página debería mostrarse con el contenido correcto.
+
+NOTAS:
+Browser: Firefox <númrto de versión>, Edge <númrto de versión>
+Diapositivo: <typo de diapositivo>
+SO: Windows 8.1
+Server: <detalles de server>
+Severidad: Severo
+Reproducido: Siempre
+
+Consulta los screenshots, video and sysdiagnose adjuntos.
+
